@@ -4,7 +4,6 @@ This project leverages Power BI to provide in-depth financial insights for banki
 ## Key Features
 - **Data Cleaning and Standardization**: Removed failed transactions and reformatted datasets for consistency and accuracy.
 - **Data Relationships**: Established and optimized data relationships to ensure high data quality.
-- **Branch Efficiency Rating System**: Developed a system to rate branch efficiency, enhancing risk assessment and performance metrics.
 - **Credit Score Analysis**: Identified high-value transactions and analyzed credit scores for better risk management.
 - **Interactive Dashboard**: Created an interactive dashboard for comprehensive data visualization and insights.
 
